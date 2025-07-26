@@ -1,4 +1,4 @@
-# RTL and Architecture Projects by Tejas
+# RTL and Architecture Projects by Tejas B G
 
 This repository contains practical Verilog/SystemVerilog projects developed during my 6th and 7th semester coursework, including:
 
